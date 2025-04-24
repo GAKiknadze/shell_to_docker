@@ -14,6 +14,8 @@
     - AioPika
 - Java Script
     - React
+    - AntD
+    - XTerm
 - PostgreSQL
 - Redis
 - RabbitMQ
