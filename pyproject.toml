@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "shell-to-docker"
+version = "0.1.0"
+description = ""
+authors = ["GAKiknadze <gakiknadze@yandex.ru>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+docker = "^7.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
